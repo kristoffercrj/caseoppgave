@@ -48,7 +48,6 @@ python main.py [latitude] [longitude] [category]
 | soil_temperature_18cm | Temperature in the soil at 18 cm  |
 | soil_temperature_24cm | Temperature in the soil at 24 cm  |
 
-```
 You can also get information by running `python main.py -h` or `python main.py --help` in your command line. \
 More detailed information can be found in the documentation of the API: https://open-meteo.com/en/docs.
 
