@@ -29,7 +29,7 @@ python main.py [latitude] [longitude] [category]
 
 `[latitude]` is a float value between -90 and 90 \
 `[longitude]` is a float value between -180 and 180 \
-`[category]` is a string that selects which weather data to display. Currently the program the following categories from the API: \
+`[category]` is a string that selects which weather data to display. Currently the program the following categories from the API:
 
 ```
 temperature_2m - Air temperature at 2 meters above ground
