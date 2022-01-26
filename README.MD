@@ -6,13 +6,11 @@ To run the code, you need to install the following python packages:
 ```
 requests
 matplotlib
-
 ```
 You can install these packages by running
 
 ```
 pip install -r requirements.txt
-
 ```
 
 ## Open-Meteo API
