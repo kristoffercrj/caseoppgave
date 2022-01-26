@@ -15,6 +15,8 @@ You can install these packages by running
 pip install -r requirements.txt
 ```
 
+Or by manually installing them with `pip install`
+
 ## Open-Meteo API
 The code uses data from the Open-Meteo API. A link to their API can be found here: https://open-meteo.com/en/docs.
 
