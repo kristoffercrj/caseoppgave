@@ -25,9 +25,9 @@ You need to run the code directly from the command-line interface (CLI). It can 
 python main.py [latitude] [longitude] [category]
 ```
 
-`[latitude]` is a float value between -90 and 90
-`[longitude]` is a float value between -180 and 180
-`[category]` is a string that selects which weather data to display. Currently the program the following categories from the API:
+`[latitude]` is a float value between -90 and 90 \
+`[longitude]` is a float value between -180 and 180 \
+`[category]` is a string that selects which weather data to display. Currently the program the following categories from the API: \
 You can also get information by running `python main.py -h` or `python main.py --help` in your command line.
 
 ```
