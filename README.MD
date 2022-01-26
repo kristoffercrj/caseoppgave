@@ -1,6 +1,6 @@
 # Caseoppgave
 
-## Prerequisistes
+## Requirements
 To run the code, you need to install the following python packages:
 
 ```
