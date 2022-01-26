@@ -51,7 +51,8 @@ python main.py [latitude] [longitude] [category]
 You can also get information by running `python main.py -h` or `python main.py --help` in your command line. \
 More detailed information can be found in the documentation of the API: https://open-meteo.com/en/docs.
 
-An example of how it can be run with different inputs:
+## Examples
+Some examples to show how to use the code:
 
 Output of `python main.py 25.2 10 temperature_2m`
 <p align = "center">
