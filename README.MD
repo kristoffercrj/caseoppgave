@@ -28,7 +28,6 @@ python main.py [latitude] [longitude] [category]
 `[latitude]` is a float value between -90 and 90 \
 `[longitude]` is a float value between -180 and 180 \
 `[category]` is a string that selects which weather data to display. Currently the program the following categories from the API: \
-You can also get information by running `python main.py -h` or `python main.py --help` in your command line.
 
 ```
 temperature_2m - Air temperature at 2 meters above ground
@@ -46,6 +45,7 @@ soil_temperature_6cm - Temperature in the soil at 6 cm
 soil_temperature_18cm - Temperature in the soil at 18 cm 
 soil_temperature_24cm - Temperature in the soil at 24 cm 
 ```
+You can also get information by running `python main.py -h` or `python main.py --help` in your command line.
 More detailed information can be found in the documentation of the API: https://open-meteo.com/en/docs.
 
 An example of how it can be run with different inputs:
