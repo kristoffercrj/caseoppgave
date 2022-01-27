@@ -57,7 +57,7 @@ Output of `python main.py 3.2 4.5 windspeed_10m`:
 <img width = "500" height = "400" src = "images/windspeed_10m.png">
 </p>
 
-An example of running `python main.py 25.2 10 temperature_2m --current_weather 1` will show something like this:
+An example of running `python main.py 25.2 10 temperature_2m --current_weather 1` will show something like this in addition to the plot in the first example:
 
 ```
 You have entered the following coordinates: (25.2N, 10.0E)
