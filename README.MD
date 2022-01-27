@@ -75,4 +75,14 @@ Plotting data...
 Success!
 ```
 
+## Known errors
+If you have specified a wrong category the following message will appear in your terminal:
+```
+You have entered the following coordinates: (25.2N, 10.0E)
+Selected category for weather data: temperature
+Traceback (most recent call last):
+  File "main.py", line 31, in <module>
+    generation_time = resp.json()['generationtime_ms'] # Extracts the time spent generating the weather data
+KeyError: 'generationtime_ms'
+```
 
