@@ -29,7 +29,7 @@ python main.py [latitude] [longitude] [category] --current_weather 1
 
 `[latitude]` is a float value between -90 and 90 \
 `[longitude]` is a float value between -180 and 180 \
-`[category]` is a string that selects which weather data to display. The supported categories from the API are shown in the table underneath.
+`[category]` is a string that selects which weather data to display. The supported categories from the API are shown in the table underneath. \
 `--current_weather 1` is an optional argument and provides printout of the current weather to your terminal. 
 
 | Category | Description |
