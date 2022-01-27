@@ -76,8 +76,9 @@ Success!
 ```
 
 ## Known errors
-If you have specified a wrong category the following message will appear in your terminal:
+If you have specified an unsupported category the following message will appear in your terminal:
 ```
+python main.py 25.2 10 temperature
 You have entered the following coordinates: (25.2N, 10.0E)
 Selected category for weather data: temperature
 Traceback (most recent call last):
