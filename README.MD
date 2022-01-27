@@ -54,7 +54,7 @@ More detailed information can be found in the documentation of the API: https://
 ## Examples
 Some examples to show how to use the code:
 
-Output of `python main.py 25.2 10 temperature_2m`
+Output of `python main.py 25.2 10 temperature_2m`:
 <p align = "center">
 <img width = "500" height = "400" src = "images/temperature_2m.png">
 </p>
@@ -64,12 +64,12 @@ Output of `python main.py 3.2 4.5 windspeed_10m`:
 <img width = "500" height = "400" src = "images/windspeed_10m.png">
 </p>
 
-Output of `python main.py 24 24 windgusts_10m`
+Output of `python main.py 24 24 windgusts_10m`:
 <p align = "center">
 <img width = "500" height = "400" src = "images/windgusts_10m.png">
 </p>
 
-Output of `python main.py 50 29 soil_temperature_18cm`
+Output of `python main.py 50 29 soil_temperature_18cm`:
 <p align = "center">
 <img width = "500" height = "400" src = "images/soil_temperature_18cm.png">
 </p>
