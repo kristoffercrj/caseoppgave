@@ -74,4 +74,14 @@ Output of `python main.py 50 29 soil_temperature_18cm`:
 <img width = "500" height = "400" src = "images/soil_temperature_18cm.png">
 </p>
 
+You an also add `--current_weather 1` to print the current weather to your terminal. An example of running `python main.py 25.2 10 temperature_2m --current_weather 1` will show something like this:
+
+```
+CURRENT WEATHER FOR (25.2N, 10.0E):
+Current time: 2022-01-27T09:00
+Current temperature: 8.9
+Current windspeed: 13.5
+Current wind direction: 135
+```
+
 
