@@ -29,28 +29,10 @@ python main.py [latitude] [longitude] [category] --current_weather 1
 
 `[latitude]` is a float value between -90 and 90 \
 `[longitude]` is a float value between -180 and 180 \
-`[category]` is a string that selects which weather data to display. The supported categories from the API are shown in the table underneath. \
+`[category]` is a string that selects which weather data to display. The supported categories from the API are found in the official documentation of Open-Meteo API https://open-meteo.com/en/docs under Hourly Parameter Definition. \
 `--current_weather 1` is an optional argument and provides printout of the current weather to your terminal. 
 
-| Category | Description |
-| --- | --- |
-| temperature_2m | Air temperature at 2 meters above ground |
-| windspeed_10m | Wind speed at 10 meters above ground |
-| windspeed_80m | Wind speed at 80 meters above ground |
-| windspeed_120m | Wind speed at 120 meters above ground |
-| windspeed_180m | Wind speed at 180 meters above ground |
-| winddirection_10m | Wind direction at 10 meters above ground |
-| winddirection_80m | Wind direction at 80 meters above ground |
-| winddirection_120m | Wind direction at 120 meters above ground |
-| winddirection_180m | Wind direction at 180 meters above ground |
-| windgusts_10m | Wind gusts at 10 meters above ground |
-| soil_temperature_0cm | Temperature in the soil at 0 cm |
-| soil_temperature_6cm | Temperature in the soil at 6 cm  |
-| soil_temperature_18cm | Temperature in the soil at 18 cm  |
-| soil_temperature_24cm | Temperature in the soil at 24 cm  |
-
 You can also get information by running `python main.py -h` or `python main.py --help` in your command line. \
-More detailed information can be found in the documentation of the API: https://open-meteo.com/en/docs.
 
 ## Examples
 Some examples to show how to use the code:
