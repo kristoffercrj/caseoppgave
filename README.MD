@@ -1,4 +1,3 @@
-# Caseoppgave
 This is a script that extracts weather data from the Open-Meteo API and plots it as a graph.
 
 ## Prerequisites
